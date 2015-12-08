@@ -1,0 +1,7 @@
+c:\users\facundo\documents\visual studio 2010\Projects\ProbandoGrafica\ProbandoGrafica\bin\Debug\ProbandoGrafica.exe
+c:\users\facundo\documents\visual studio 2010\Projects\ProbandoGrafica\ProbandoGrafica\bin\Debug\ProbandoGrafica.pdb
+c:\users\facundo\documents\visual studio 2010\Projects\ProbandoGrafica\ProbandoGrafica\obj\x86\Debug\ProbandoGrafica.Form1.resources
+c:\users\facundo\documents\visual studio 2010\Projects\ProbandoGrafica\ProbandoGrafica\obj\x86\Debug\ProbandoGrafica.Properties.Resources.resources
+c:\users\facundo\documents\visual studio 2010\Projects\ProbandoGrafica\ProbandoGrafica\obj\x86\Debug\ProbandoGrafica.csproj.GenerateResource.Cache
+c:\users\facundo\documents\visual studio 2010\Projects\ProbandoGrafica\ProbandoGrafica\obj\x86\Debug\ProbandoGrafica.exe
+c:\users\facundo\documents\visual studio 2010\Projects\ProbandoGrafica\ProbandoGrafica\obj\x86\Debug\ProbandoGrafica.pdb
